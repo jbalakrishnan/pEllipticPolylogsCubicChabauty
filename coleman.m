@@ -1,0 +1,14 @@
+////////////////////////////////////////////////////////////////////////////////////////////////////////////
+// This is  *almost* the same file as https://github.com/jtuitman/Coleman/blob/master/coleman.m
+// One change: loads allintegrals.m
+////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Qx<x>:=PolynomialRing(RationalField());
+Qxy<y>:=PolynomialRing(Qx);
+
+load "auxpolys.m";
+load "coho.m";
+load "froblift.m";
+load "reductions.m";
+load "allintegrals.m";
+load "applications.m";
