@@ -172,7 +172,7 @@ end function;
 
 foundpts:=F_for_E(Eshort,p,N,c,data);
 print "==============================================";
-print "Points z such that j_3(z)= 0: ", foundpts;
+print "Points z such that F_3(z)= 0: ", foundpts;
 ratpts:=[];
 fakepts:=[];
 for P in foundpts do
