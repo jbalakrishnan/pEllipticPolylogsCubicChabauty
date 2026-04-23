@@ -1,6 +1,6 @@
 Magma and PARI/GP code to accompany the paper
 
- ``p-adic Elliptic Polylogarithms and Cubic Chabauty''
+ ``p-adic Elliptic Polylogarithms and Cubic Chabauty''  (https://arxiv.org/abs/2604.20662)       
 
  by Jennifer S. Balakrishnan, Francesca Bianchi, Netan Dogra
 
